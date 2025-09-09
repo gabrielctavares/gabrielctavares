@@ -4,7 +4,7 @@
 **💻 Software Engineer**  
 - **Mid-level Backend Engineer**
 - Born in Brazil 🇧🇷
-- Computational Engineering Student at [UFJF](https://www2.ufjf.br/ufjf/)
+- Computational Engineering Student at [UFJF](https://www2.ufjf.br/engcomputacional/)
 
 **🎯 Interests**  
 - Artificial Intelligence & Generative AI
